@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Collect Logs
+Name[de]=Protokolle sammeln
+Comment=Collects system logs for attaching to a bug report
+Comment[de]=Sammelt Systemprotokolle, um sie an einen Problembericht anzuhängen
+Icon=gnome-system
+Exec=dsctl-log-collector.py
+Terminal=false
+Type=Application
+Categories=Application;System;
+StartupNotify=true

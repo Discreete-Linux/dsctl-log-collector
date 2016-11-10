@@ -1,0 +1,11 @@
+Package: dsctl-log-collector
+Version: 0.2
+Architecture: all
+Maintainer: Discreete Linux Team <info@discreete-linux.org>
+Installed-Size: 35
+Section: unknown
+Priority: extra
+Homepage: https://www.discreete-linux.org
+Description: Utility for collecting system logs
+ This is a little utility for collecting logs to help debugging Discreete Linux.
+ It is intended solely for use with Discreete Linux.
